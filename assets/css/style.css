@@ -90,7 +90,7 @@ section {
     margin-left: 20px;
 }
 
-/* Replaced benefit class for aside tag */
+/* Replaced benefit class for aside tag, changed the background color for sufficient contrast ratio!!!*/
 
 aside {
     margin-right: 20px;
@@ -100,7 +100,7 @@ aside {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0072bb;
 }
 
 .benefit-lead {
