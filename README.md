@@ -1,7 +1,8 @@
 # Homework-Assignment-1
 
-Horiseon Marketing Agency webpage accessibility standards update
+# Horiseon Marketing Agency webpage accessibility standards update
 
+# logs & Changes
 1- Updated title of webpage
 2- Implented semantic html elements throughout html content
 3- Cleaned code for a more comprensive experience
